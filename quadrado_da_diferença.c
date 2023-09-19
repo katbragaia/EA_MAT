@@ -11,7 +11,7 @@ int A, B, C, D;
 
    C=A-B;
    D=C*C;
-   printf("o valor de D e de: %i", D);
+   printf("o quadrado da diferenca e de: %i", D);
 
 
 
