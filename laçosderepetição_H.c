@@ -16,6 +16,7 @@ while(M<=E)
     W=B*W;
     M=M+1;
 }
+printf("o valor da potencia e de: %i", W);
 
 
 
